@@ -1,9 +1,3 @@
-//let titulo = document.querySelector('h1');
-//titulo.innerHTML = 'Jogo do número secreto';
-
-//let paragrafo = document.querySelector('p');
-//paragrafo.innerHTML = 'Escolha um número entre 1 e 30';
-
 //Criando lista apara armazenas os números já sorteados.
 let listaDeNumerosSorteados = [];
 let numeroLimite = 30;
